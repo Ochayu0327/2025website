@@ -1,0 +1,2 @@
+comfig --global user.name Ochayu0327
+comfig --global user.email s1411222034@ad1.nutc.deu.tw
